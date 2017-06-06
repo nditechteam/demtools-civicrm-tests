@@ -1,5 +1,5 @@
-vendor/*
 .vagrant/*
+modules/puppet-*
 platforms/
 .valkyrie/*
 !.valkyrie/valkyrie
