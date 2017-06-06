@@ -9,7 +9,7 @@ Setup
 
 To get started, clone this repository:
 
-    $ git clone https://github.com/nditech/demtools-civicrm-tests
+    $ git clone --recursive https://github.com/nditech/demtools-civicrm-tests
     $ cd demtools-civicrm-tests
 
 This project uses [Drumkit](http://drumk.it) to simplify setting up a testing
