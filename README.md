@@ -19,7 +19,9 @@ tools. First, let's bootstrap it:
 
 Among other things, that will alter your `PATH` temporarily to add a local
 `bin` directory where we'll install Behat, Composer and other components of our
-test stack.
+test stack. (The bin folder will be hidden, but is located in .mk/.local/bin). Execute the
+$ . d command in the directory demtools-civicrm-tests each time you start a new
+terminal session.
 
 Next, let's install [Composer](http://getcomposer.org) and [Behat](http://behat.org) and the [Drupal Extension to Behat and Mink](https://behat-drupal-extension.readthedocs.io):
 
